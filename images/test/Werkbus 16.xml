@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Werkbus 2.0</folder>
+	<filename>Werkbus 16.PNG</filename>
+	<path>G:\Mijn Drive\Modellen\Werkbus 2.0\Werkbus 16.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>948</width>
+		<height>509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>werkbus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>21</ymin>
+			<xmax>418</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>
